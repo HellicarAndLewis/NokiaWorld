@@ -1,0 +1,26 @@
+<FACTORY>
+    <val_0>10.066667</val_0>
+</FACTORY>
+<CHANNEL />
+<CHANNEL />
+<CHANNEL />
+<CHANNEL 0COLOR_FG>
+    <val_0>46.222225</val_0>
+    <val_1>125.999992</val_1>
+    <val_2>238.000000</val_2>
+    <val_3>49.000000</val_3>
+    <val_4>36.000000</val_4>
+</CHANNEL 0COLOR_FG>
+<CHANNEL 0PALETTE_FG>
+    <val_0>1.250000</val_0>
+</CHANNEL 0PALETTE_FG>
+<CHANNEL 0COLOR_BG>
+    <val_0>254.222229</val_0>
+    <val_1>123.000000</val_1>
+    <val_2>152.000000</val_2>
+    <val_3>1.000000</val_3>
+    <val_4>46.000000</val_4>
+</CHANNEL 0COLOR_BG>
+<CHANNEL 0PALETTE_BG>
+    <val_0>1.550000</val_0>
+</CHANNEL 0PALETTE_BG>

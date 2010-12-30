@@ -1,0 +1,47 @@
+Nokia World 2010
+
+An VJ Application by Hellicar&Lewis for the Nokia World 2010 event.
+
+Compatible with of_preRelease_v0061_osxSL_FAT
+
+http://openframeworks.cc
+http://openframeworks.cc/download
+
+Thanks to the whole OpenFrameworks community.
+
+Based on earlier work by Hellicar&Lewis, Zach Lieberman and Shawn Bonkowski for the Diesel:U:Music show in London, 2009.
+http://www.hellicarandlewis.com/2009/10/01/dieselumusic/
+http://thesystemis.com/
+http://www.realityignored.com/
+
+Uses:
+
+ofxBox2D by Todd Vanderlin
+http://code.google.com/p/vanderlin/
+http://toddvanderlin.com
+
+ofxNoise by Rui Madeira
+
+/*
+ a simple noise addon for OpenFrameworks.
+ this is a simple port of Karsten Schmidt's Noise classes for java.
+ you can find the original classes here: code.google.com/p/toxiclibs
+ it is released under the LGPL license which is the one used in the original code.
+ if you have any questions about this port please contact me: ruibmx at gmail dot com
+ if you have any questions about the original noise classes please contact the original author
+ as i honestly have no clue on what is going on in here...
+*/
+
+http://ruim.pt/
+http://code.google.com/p/ruicode/
+
+ofxControlPanel by Theo Watson
+https://github.com/ofTheo/ofxControlPanel
+http://theowatson.com
+
+AppSettings by Todd Vanderlin
+http://code.google.com/p/vanderlin/
+http://toddvanderlin.com
+
+MacGlutFix by Zach Lieberman
+http://thesystemis.com/
